@@ -1,2 +1,2 @@
 # MatrixComputation
-Code for matrix computation in c++
+Code for matrix computation
